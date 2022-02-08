@@ -11,7 +11,8 @@ namespace proba
         static void Main(string[] args)
         {
             Console.WriteLine("Helló!");
-            int a = int.Parse(Console.ReadLine());)
+            int a = int.Parse(Console.ReadLine());
+            
         }
     }
 }
